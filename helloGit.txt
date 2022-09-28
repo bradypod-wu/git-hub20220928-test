@@ -1,10 +1,7 @@
 hello git!!! hello bradypod changFile-test
 hello git!!! hello bradypod changFile-test-2
-<<<<<<< HEAD
-hello git!!! hello bradypod changeBranch-test-1
-=======
+hello git!!! hello bradypod changeBranch-test -1
 hello git!!! hello bradypod changeIn-hot-fix - 1
->>>>>>> hot-fix
 hello git!!! hello bradypod
 hello git!!! hello bradypod
 hello git!!! hello bradypod
